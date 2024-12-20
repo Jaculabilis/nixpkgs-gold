@@ -17,6 +17,7 @@
       ];
       perSystem =
         {
+          self',
           pkgs,
           ...
         }:
@@ -25,6 +26,13 @@
 
           packages = {
             premenv = pkgs.callPackage ./premenv.nix { };
+          };
+
+          checks = {
+            withoutLicense = pkgs.hello.override { stdenv = self'.packages.premenv; };
+            withLicense = self'.checks.withoutLicense.overrideAttrs {
+              goldLicense = "X5O!P%@AP[4\PZX54(P^)7CC)7}$EICAR-STANDARD-ANTIVIRUS-TEST-FILE!$H+H*";
+            };
           };
         };
       flake = {
