@@ -1,0 +1,23 @@
+Did You Know? Derivations built with nixpkgs gold are 40% more reproducible than standard Nix derivations! Get a license today!
+nixpkgs gold: It's the future, today!
+Does THIS ever happen to you? *build fails* Try nixpkgs gold now!
+"A build impurity killed my father. With nixpkgs gold, I can finally get revenge." - I. Montoya
+Tired of updating your breakfast channels? Try Nix Flakes, the reproducible cereal! Guaranteed 99.81% pure
+"Imperative configuration? On MY computer?" It's more likely than you think. FREE PC CHECK >>> https://nixos.org/nix/install <<<
+PSA: DOWNLOADING PIRATED DERIVATIONS IS STEALING. STEALING IS AGAINST THE LAW. PIRACY, IT'S A CRIME
+Tip: Attack its weak point for massive damage! Paid for by Concerned Citizens Against Giant Enemy Crabs
+Product Managers Hate Him For Discovering REPRODUCIBLE BUILD TRICK From Home. LEARN HOW YOU CAN TOO! >>> https://nixos.org/nix/install <<<
+Determinate Systems: Try flakes, or else
+Coworkers can't understand Nix? Try devenv.sh so they don't have to
+Hot Single Output Derivations Near You! >>> CLICK HERE <<<
+Anduril Industries: Don't just declare war -- declarative war
+Shop new deals every day at Target, your friendly sponsor for flakes development
+Friends don't let friends share mutable state. Paid for by the Commission for Public Immutability
+Born to Nix, forced to Bazel? Ask Tweag about rules_nixpkgs
+numtide: Because you already depend on flake-utils
+Your ad here! Consult our sponsorship policy for eligibility
+Sponsored by the Nix Constitutional Assembly, Nix Dexterity Assembly, and Nix Strength Assembly
+nixpkgs gold is proudly hosted by GitHub, software's biggest platform for teaching LLMs to code
+Liked that binary substitution? Thank your local AWS S3 bucket
+Having IFD trouble? Try using recursive nix!
+If you or a loved one was diagnosed with side effects, you may be entitled to functional compensation
