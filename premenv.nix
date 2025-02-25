@@ -1,8 +1,18 @@
 {
+  lib,
+  config,
   stdenv,
   makeWrapper,
   ...
 }:
+
+assert lib.assertMsg (config.gold.acceptEula or false) ''
+  You must accept the ${lib.gold.nixpkgsGold} EULA to continue. Read the terms
+  below, and set `gold.acceptEula` in your nixpkgs configuration once you agree:
+
+  ${builtins.readFile ./LICENSE}
+'';
+
 stdenv.override (stdenvPrev: {
   name = "premenv";
   extraAttrs = {
