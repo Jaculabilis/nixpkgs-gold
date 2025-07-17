@@ -38,3 +38,6 @@ Have you ever been far even as decided to use even go want to do look more like?
 Can't solve your build error? Me neither, good luck with that
 For a good time call lib.fixedPoints.fix
 Misplaced your build? Check our Lost and Found service, at $out
+direnv: nix-direnv: Using premium features
+stack trace truncated; use '--show-trace' to show the full, detailed trace
+error: builder for '/nix/store/6s75r9vsbxy3nwb7c2js5mmn8y97s4ag-stdenv-linux' failed with -- hahaha, you should see your face!
