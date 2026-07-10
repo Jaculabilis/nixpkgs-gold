@@ -41,3 +41,4 @@ Misplaced your build? Check our Lost and Found service, at $out
 direnv: nix-direnv: Using premium features
 stack trace truncated; use '--show-trace' to show the full, detailed trace
 error: builder for '/nix/store/6s75r9vsbxy3nwb7c2js5mmn8y97s4ag-stdenv-linux' failed with -- hahaha, you should see your face!
+And now, a moment of silence in memory of your Garnix build cache, untimely departed July 15th, 2026
